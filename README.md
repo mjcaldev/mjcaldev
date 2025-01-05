@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Micheal (pronounced "mee-HAWL" 🇮🇪) @Doubl2Tripl3
-- 👀 I’m interested in programming, logic, and purpose driven careers
+- 👋 Hi, I’m Micheal (pronounced "mee-HAWL" 🇮🇪) @mjcaldev
+- 👀 I’m interested in programming, learning new languages (computer & human), and development (software, web, and human)
 - 🌱 I’m currently learning Typescript & Next.js
 - 👷 I’m looking to collaborate on web app projects.
-- 📫 How to reach me: doubletripledev@gmail.com || on my socials (linked in my site)
+- 📫 How to reach me: mjcaldev@gmail.com || on my socials (linked in my site)
 - ⚡ Fun fact: I'm 100% Irish, but I speak Spanish! I also love to play instruments and run long distance.
 
 <!---
