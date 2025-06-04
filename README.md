@@ -3,7 +3,7 @@
 - 🧠 Avid user of AI (GPT, Claude, Phind) and working on building my own workflows & agents.
 - 🌱 I’m currently working with Ruby and Docker as well as Typescript, Next.js, and React.js!
 - 👷 I’m designing and building fullstack systems to solve problems!
-- 📫 How to reach me: mjcaldev@gmail.com || on my socials (linked in my site)
+- 📫 How to reach me: mjcaldev@gmail.com || https://mjcal.dev
 - ⚡ Fun fact: I'm 100% Irish, but I speak Spanish! I also love to play instruments and run long distance.
 
 <!---
