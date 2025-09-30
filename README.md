@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Micheal (pronounced "mee-HAWL" 🇮🇪) @mjcaldev
 - 👀 I'm a software engineer, client success specialist, and developing Solutions Architect. Efficient solutions are worth finding.
-- 🧠 Avid user of AI (GPT, Claude, Phind) and working on building my own workflows & agents.
-- 🌱 I’m currently working with Ruby and Docker as well as Typescript, Next.js, and React.js!
+- 🧠 Passionate about finding the best ways to use AI to help me learn & automate the boring stuff (with some help from Python ;)!
+- 🌱 I’m currently working with Python & Lambda Functions as well as building with Typescript, Next.js, and React.js!
 - 👷 I’m designing and building fullstack systems to solve problems!
-- 📫 How to reach me: mjcaldev@gmail.com || https://mjcal.dev
+- 📫 How to reach me: mjcalcontact@gmail.com || https://mjcal.dev
 - ⚡ Fun fact: I'm 100% Irish, but I speak Spanish! I also love to play instruments and run long distance.
 
 <!---
