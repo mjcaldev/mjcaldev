@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Micheal (pronounced "mee-HAWL" 🇮🇪) @mjcaldev
-- 👀 I'm a software engineer who loves arhcitecting systems and working with clients to implement them just right!
+- 👀 I'm a software engineer who loves architecting systems and working with clients to implement them just right!
 - 🧠 I am self-taught and passionate about finding ways to use programming, AI, and YouTube to empower others to self-educate.
 - 🌱 I’m currently working with Python, AWS, Typescript, JSON schemas, Postgres and Next.js to build business systems for clients (AI automation tools, CRM, Databases, Fullstack websites, Blogs, etc).
 - 📫 How to reach me: hi@mjcal.dev || https://mjcal.dev
